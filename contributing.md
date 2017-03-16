@@ -1,4 +1,3 @@
-<!--
 Meow! Thanks for your patience and kind help. If you are reporting a new issue,
 please double check that we do not have any duplicates already open. You can
 ensure this by searching the issue list for this repository. If there is a
@@ -13,7 +12,7 @@ BUG REPORT INFORMATION
 ---------------------------------------------------
 Please use the questions below to provide key information from your environment:
 You do NOT have to include this information if this is a FEATURE REQUEST though.
--->
+
 
 **- Do you want to request a *feature* or report a *bug*?**
 
